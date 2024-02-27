@@ -1,0 +1,7 @@
+add Apple
+add Banana
+add Orange
+delete Banana
+add Grape
+delete Apple
+add Mango
